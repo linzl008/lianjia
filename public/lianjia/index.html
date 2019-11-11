@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>链家</title>
+    <script src="./jquery-3.4.1.js"></script>
+</head>
+<body>
+    <div id="list"></div>
+</body>
+<script>
+    $.ajax({
+        url:'http://localhost:3003/lianjia',
+        type:'GET',
+        success: function (res) {
+            res = res.replace('/**/BMap._rd._cbk51910 && BMap._rd._cbk51910(','')
+            res = res.slice(0,res.length-1)
+            res = JSON.parse(res)
+
+            console.log(res);
+        }
+    })
+</script>
+</html>

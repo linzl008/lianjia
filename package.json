@@ -1,0 +1,21 @@
+{
+  "name": "nodeexpress",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "set PORT=3003 && node ./bin/www "
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-proxy-middleware": "^0.19.1",
+    "morgan": "~1.9.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "superagent": "^5.0.5",
+    "superagent-charset": "^1.2.0"
+  }
+}

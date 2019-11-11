@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .effect{
+            width:90%;
+            height:100%;
+            padding:100px 5%;
+            filter:contrast(10);
+            background:#fff;
+        }
+
+        .blackball{
+            width:120px;
+            height:120px;
+            background:black;
+            /*padding:10px;*/
+            border-radius:50%;
+            margin:0 auto;
+            z-index:1;
+            filter:blur(5px);
+            position: relative;
+        }
+        .whiteball{
+            position: absolute;
+            width:100px;
+            height: 100px;
+            background-color: white;
+            border-radius:50%;
+            top:10px;
+            left:10px;
+
+        }
+        .redball{
+            width:10px;
+            height:10px;
+            background:#f00;
+            /*padding:10px;*/
+            border-radius:50%;
+            position:absolute;
+            top:50px;
+            left:0px;
+            z-index:2;
+            filter:blur(1px) ;
+            transform-origin: 60px 10px;
+            transform: rotateZ(180deg);
+            animation:rball 1s infinite linear;
+        }
+        @keyframes rball{
+            0%{
+                transform: rotateZ(0deg);
+            }
+            100%{
+
+                transform: rotateZ(360deg);
+            }
+
+            4%,54%{
+
+            }
+            10%,60%{
+
+            }
+            20%,70%{
+
+            }
+            34%,90%{
+
+            }
+            41%{
+
+            }
+            50%{
+
+            }
+        }
+    </style>
+    <style>
+        .box{
+            padding: 50px;
+            filter:contrast(10);
+        }
+        .mouse{
+            float: left;
+            background-color: #555555;
+            border-radius: 50%;
+            width: 60px;
+            height: 40px;
+            filter: blur(10px);
+            animation: rmouse 1s infinite;
+        }
+        @keyframes rmouse {
+            50%{
+                filter: blur(20px)
+            }
+            100%{
+                filter: blur(10px)
+            }
+        }
+
+    </style>
+    <style>
+        .effect2{
+            width:90%;
+            height:100%;
+            padding:100px 5%;
+            filter:contrast(4);
+            background:#fff;
+        }
+        .line{
+            width: 100%;
+            height: 50px;
+            background: linear-gradient(to bottom, #9a9a9a, #5f5d5d,#9a9a9a);
+            /*background: #595959;*/
+            filter:blur(2px);
+            position: relative;
+            transform: rotateZ(10deg);
+            animation:rline 6s infinite cubic-bezier(0.76, 0.03, 0.24, 1.01);
+
+        }
+        .water{
+            animation:rwater 6s infinite cubic-bezier(0.76, 0.03, 0.24, 1.01);
+            width: 0px;
+            height: 0px;
+            position: absolute;
+            top:25px;
+            left: -10px;
+            filter:blur(2px);
+            border-radius: 50%;
+            border-bottom: 20px solid  #f00;
+            border-top:20px solid  transparent;
+            border-right:10px solid  transparent;;
+            border-left:10px solid  transparent;
+           /* top:-25px;
+            left: 50%;
+            border-bottom: 10px solid  #f00;
+            border-top:10px solid  transparent;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;*/
+        }
+
+        @keyframes rline{
+            50%{
+                transform: rotateZ(-10deg);
+            }
+        }
+        @keyframes rwater{
+            25%,75%{
+                top:35px;
+                border-bottom: 10px solid  #f00;
+                border-top:10px solid  transparent;
+                border-left: 5px solid transparent;
+                border-right: 5px solid transparent;
+            }
+            50%{
+                left:calc(100% - 10px);
+                top:25px;
+                border-bottom: 20px solid  #f00;
+                border-top:20px solid  transparent;
+                border-left: 10px solid transparent;
+                border-right: 10px solid transparent;
+            }
+            100%{
+                top:25px;
+                left: -10px;
+                border-bottom: 20px solid  #f00;
+                border-top:20px solid  transparent;
+                border-left: 10px solid transparent;
+                border-right: 10px solid transparent;
+            }
+        }
+    </style>
+    <style>
+        .circle{
+            background-color: red;
+            border-radius: 30%;
+            width: 40px;
+            height:40px;
+            animation: circle 2s infinite linear;
+        }
+        @keyframes circle {
+            from{
+                transform: rotateZ(0);
+            }
+            to{
+                transform: rotateZ(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="effect2">
+    <div class="blackball">
+        <div class="whiteball"></div>
+        <div class="redball">
+        </div>
+    </div>
+<div class="line">
+    <div class="water"></div>
+</div>
+    <div class="box">
+        <div class="mouse"></div>
+        <div class="mouse"></div>
+        <div class="mouse"></div>
+    </div>
+</div>
+<div class="effect2">
+    <div class="circle"></div>
+</div>
+</body>
+</html>
