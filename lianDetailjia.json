@@ -1,0 +1,662 @@
+[
+    {
+        "des": "名骏豪庭，朝南2改3户型，安静不临街，业主诚心卖",
+        "name": "名骏豪庭 ",
+        "area": "莲塘",
+        "url": "https://sz.lianjia.com/ershoufang/105101408950.html",
+        "kindergarten": {
+            "school": "莲塘房地产幼儿园",
+            "distance": "132米"
+        },
+        "primary": {
+            "school": "深圳市莲南小学",
+            "distance": "233米"
+        },
+        "middle": {
+            "school": "罗湖外语学校(初中部)",
+            "distance": "723米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "想找装修漂亮的2房必看此房，户型方正，中间楼层！",
+        "name": "玉华花园 ",
+        "area": "龙华中心",
+        "url": "https://sz.lianjia.com/ershoufang/105102657326.html",
+        "kindergarten": {
+            "school": "上塘小精灵幼儿园",
+            "distance": "681米"
+        },
+        "primary": {
+            "school": "龙华区行知小学",
+            "distance": "816米"
+        },
+        "middle": {
+            "school": "龙华第二实验学校",
+            "distance": "930米"
+        },
+        "university": {
+            "school": "编程猫学院(龙华校区)",
+            "distance": "1438米"
+        }
+    },
+    {
+        "des": "海尚国际，地铁口物业，价格低，很实惠！！！",
+        "name": "海尚国际 ",
+        "area": "蛇口",
+        "url": "https://sz.lianjia.com/ershoufang/105101869466.html",
+        "kindergarten": {
+            "school": "南海玫瑰为明幼儿园",
+            "distance": "323米"
+        },
+        "primary": {
+            "school": "南海玫瑰为明幼儿园",
+            "distance": "323米"
+        },
+        "middle": {
+            "school": "南海玫瑰为明幼儿园",
+            "distance": "323米"
+        },
+        "university": {
+            "school": "南海玫瑰为明幼儿园",
+            "distance": "323米"
+        }
+    },
+    {
+        "des": "户型方正，满五唯一，红本在手，近壹方城，通风采光好",
+        "name": "庆华花园 ",
+        "area": "翻身",
+        "url": "https://sz.lianjia.com/ershoufang/105101570678.html",
+        "kindergarten": {
+            "school": "新安中心幼儿园(乐平路)",
+            "distance": "124米"
+        },
+        "primary": {
+            "school": "安乐小学",
+            "distance": "735米"
+        },
+        "middle": {
+            "school": "海滨中学",
+            "distance": "287米"
+        },
+        "university": {
+            "school": "赢商荟学院",
+            "distance": "451米"
+        }
+    },
+    {
+        "des": "红本在手 精装修 视野宽阔 中高楼层 诚心出售",
+        "name": "龙园山庄 ",
+        "area": "清水河",
+        "url": "https://sz.lianjia.com/ershoufang/105102917207.html",
+        "kindergarten": {
+            "school": "清水河为民幼儿园",
+            "distance": "348米"
+        },
+        "primary": {
+            "school": "龙园外语实验学校",
+            "distance": "200米"
+        },
+        "middle": {
+            "school": "深圳市新华外国语学校",
+            "distance": "451米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "地铁口物业，115平大三房，满五唯一，业主诚心出售",
+        "name": "万科金色领域 ",
+        "area": "福永",
+        "url": "https://sz.lianjia.com/ershoufang/105103128079.html",
+        "kindergarten": {
+            "school": "怀德第二幼儿园",
+            "distance": "941米"
+        },
+        "primary": {
+            "school": "深圳市下十围小学",
+            "distance": "886米"
+        },
+        "middle": {
+            "school": "新安中学(集团)第二外国语学校",
+            "distance": "257米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "鸿威海怡湾 ，深圳湾公园旁 3居室 看房方便，业主诚售",
+        "name": "鸿威海怡湾 ",
+        "area": "深圳湾",
+        "url": "https://sz.lianjia.com/ershoufang/105102972305.html",
+        "kindergarten": {
+            "school": "澳城花园幼儿园",
+            "distance": "647米"
+        },
+        "primary": {
+            "school": "望海小学",
+            "distance": "339米"
+        },
+        "middle": {
+            "school": "南山外国语学校(集团)高级中学",
+            "distance": "959米"
+        },
+        "university": {
+            "school": "伊斯佑国际商学院",
+            "distance": "324米"
+        }
+    },
+    {
+        "des": "前海自贸区正南朝向，精装一房，看房方便，中间楼层",
+        "name": "绿海名都 ",
+        "area": "前海",
+        "url": "https://sz.lianjia.com/ershoufang/105102967907.html",
+        "kindergarten": {
+            "school": "深圳南山区机关幼儿园",
+            "distance": "547米"
+        },
+        "primary": {
+            "school": "华府小学",
+            "distance": "464米"
+        },
+        "middle": {
+            "school": "南山区前海学校中学部",
+            "distance": "163米"
+        },
+        "university": {
+            "school": "西安电子科技大学(深圳教学点)",
+            "distance": "742米"
+        }
+    },
+    {
+        "des": "地铁口 89平大三房 带89楼顶平台",
+        "name": "雅涛花园 ",
+        "area": "西乡",
+        "url": "https://sz.lianjia.com/ershoufang/105103244729.html",
+        "kindergarten": {
+            "school": "深圳福中福晶晶幼儿园",
+            "distance": "273米"
+        },
+        "primary": {
+            "school": "径贝小学",
+            "distance": "464米"
+        },
+        "middle": {
+            "school": "新安中学(集团)第一实验学校",
+            "distance": "755米"
+        },
+        "university": {
+            "school": "黄河商学院",
+            "distance": "1021米"
+        }
+    },
+    {
+        "des": "林海山庄，9号线梅景地铁站，户型方正。",
+        "name": "林海山庄 ",
+        "area": "梅林",
+        "url": "https://sz.lianjia.com/ershoufang/105102302508.html",
+        "kindergarten": {
+            "school": "红蜻蜓幼儿园(景田北二街)",
+            "distance": "1007米"
+        },
+        "primary": {
+            "school": "深圳市福田区景田小学",
+            "distance": "448米"
+        },
+        "middle": {
+            "school": "深圳市福田区外国语学校",
+            "distance": "573米"
+        },
+        "university": {
+            "school": "深圳社会主义学院",
+            "distance": "1719米"
+        }
+    },
+    {
+        "des": "领.航.城 精装两房 ，大花园，配套好",
+        "name": "领航城领秀花园 ",
+        "area": "西乡",
+        "url": "https://sz.lianjia.com/ershoufang/105102793583.html",
+        "kindergarten": {
+            "school": "晶晶幼儿园",
+            "distance": "1063米"
+        },
+        "primary": {
+            "school": "钟屋小学(钟屋一路)",
+            "distance": "1459米"
+        },
+        "middle": {
+            "school": "深圳市桃源居中澳实验学校",
+            "distance": "945米"
+        },
+        "university": {
+            "school": "哈哈福保姆大学",
+            "distance": "1071米"
+        }
+    },
+    {
+        "des": "红山地铁站，南北通四房，业主诚心出售，随时方便看房",
+        "name": "莱蒙水榭春天B区6期 ",
+        "area": "红山",
+        "url": "https://sz.lianjia.com/ershoufang/105103308196.html",
+        "kindergarten": {
+            "school": "无",
+            "distance": "无"
+        },
+        "primary": {
+            "school": "水榭春天幼儿园",
+            "distance": "596米"
+        },
+        "middle": {
+            "school": "深圳市龙华区民治中学教育集团",
+            "distance": "525米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "国贸商圈Lou王单位，满五年唯一，只需要契税！",
+        "name": "置地逸轩 ",
+        "area": "春风路",
+        "url": "https://sz.lianjia.com/ershoufang/105102913935.html",
+        "kindergarten": {
+            "school": "合江新新幼儿园",
+            "distance": "298米"
+        },
+        "primary": {
+            "school": "深圳市南湖小学",
+            "distance": "210米"
+        },
+        "middle": {
+            "school": "深圳市罗湖中学",
+            "distance": "244米"
+        },
+        "university": {
+            "school": "加拿大伦敦国际学院中国校务处",
+            "distance": "208米"
+        }
+    },
+    {
+        "des": "竹子林金海花园 经典正南两房 小高层电梯房 使用率高",
+        "name": "金海花园 ",
+        "area": "竹子林",
+        "url": "https://sz.lianjia.com/ershoufang/105103292504.html",
+        "kindergarten": {
+            "school": "深圳市金色未来幼儿园",
+            "distance": "236米"
+        },
+        "primary": {
+            "school": "福田区教科院附属小学",
+            "distance": "358米"
+        },
+        "middle": {
+            "school": "红岭中学(竹子林三路)",
+            "distance": "93米"
+        },
+        "university": {
+            "school": "深圳职业技术学院(华侨城校区)",
+            "distance": "883米"
+        }
+    },
+    {
+        "des": "地铁口标准一房一厅，西南向，大阳台，户型采光好",
+        "name": "尚书苑 ",
+        "area": "梅林",
+        "url": "https://sz.lianjia.com/ershoufang/105102325272.html",
+        "kindergarten": {
+            "school": "深圳梅林幼儿园",
+            "distance": "644米"
+        },
+        "primary": {
+            "school": "深圳市福田区景田小学",
+            "distance": "714米"
+        },
+        "middle": {
+            "school": "华强高职专业学院",
+            "distance": "830米"
+        },
+        "university": {
+            "school": "深圳南开学校",
+            "distance": "1174米"
+        }
+    },
+    {
+        "des": "福永桥头站 中粮物业 双阳台户型 有入户花园 随时看房",
+        "name": "中粮凤凰里 ",
+        "area": "福永",
+        "url": "https://sz.lianjia.com/ershoufang/105102924300.html",
+        "kindergarten": {
+            "school": "桥头幼儿园(荔园路)",
+            "distance": "908米"
+        },
+        "primary": {
+            "school": "景山实验学校",
+            "distance": "325米"
+        },
+        "middle": {
+            "school": "景山实验学校",
+            "distance": "325米"
+        },
+        "university": {
+            "school": "景山实验学校",
+            "distance": "325米"
+        }
+    },
+    {
+        "des": "花郡优质一房，97%使用率，装修精美",
+        "name": "花样年花郡 ",
+        "area": "宝安中心",
+        "url": "https://sz.lianjia.com/ershoufang/105103049041.html",
+        "kindergarten": {
+            "school": "小神童幼儿园(开屏路)",
+            "distance": "430米"
+        },
+        "primary": {
+            "school": "新安翻身小学",
+            "distance": "866米"
+        },
+        "middle": {
+            "school": "崛起实验中学",
+            "distance": "481米"
+        },
+        "university": {
+            "school": "翻身实验学校(东校区)",
+            "distance": "921米"
+        }
+    },
+    {
+        "des": "岗厦变电综合楼 3室1厅 410万",
+        "name": "岗厦变电综合楼 ",
+        "area": "福田中心",
+        "url": "https://sz.lianjia.com/ershoufang/105103164340.html",
+        "kindergarten": {
+            "school": "福田区机关第二幼儿园",
+            "distance": "436米"
+        },
+        "primary": {
+            "school": "深圳市福华小学",
+            "distance": "255米"
+        },
+        "middle": {
+            "school": "深圳第二高级技工学校(福强校区)",
+            "distance": "481米"
+        },
+        "university": {
+            "school": "特区大学(深圳会展中心)",
+            "distance": "1095米"
+        }
+    },
+    {
+        "des": "星海名城六期，花园中间安静通风采光好，户型方正实用",
+        "name": "星海名城六期 ",
+        "area": "前海",
+        "url": "https://sz.lianjia.com/ershoufang/105102508273.html",
+        "kindergarten": {
+            "school": "中佳星海幼儿园",
+            "distance": "444米"
+        },
+        "primary": {
+            "school": "深圳市大新小学",
+            "distance": "530米"
+        },
+        "middle": {
+            "school": "北大附中(南山分校)",
+            "distance": "137米"
+        },
+        "university": {
+            "school": "西安电子科技大学(深圳教学点)",
+            "distance": "1201米"
+        }
+    },
+    {
+        "des": "业主诚心卖 满五  户型方正实用 看房方便",
+        "name": "天骄世家 ",
+        "area": "西乡",
+        "url": "https://sz.lianjia.com/ershoufang/105103253962.html",
+        "kindergarten": {
+            "school": "马荣国际深圳天骄幼儿园",
+            "distance": "129米"
+        },
+        "primary": {
+            "school": "陆兴小学",
+            "distance": "368米"
+        },
+        "middle": {
+            "school": "新华实验学校(同和路)",
+            "distance": "1130米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "此房满两年，楼层好，视野宽阔，采光充足，配套齐全",
+        "name": "龙光玖龙玺北区 ",
+        "area": "梅林关",
+        "url": "https://sz.lianjia.com/ershoufang/105102716620.html",
+        "kindergarten": {
+            "school": "金域华府幼儿园(赤公坑路)",
+            "distance": "260米"
+        },
+        "primary": {
+            "school": "东星小学",
+            "distance": "702米"
+        },
+        "middle": {
+            "school": "深圳市潜龙学校初中部",
+            "distance": "1251米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "户型方正大两房，南向，带电梯，业主诚心出售！",
+        "name": "尚书苑 ",
+        "area": "梅林",
+        "url": "https://sz.lianjia.com/ershoufang/105103181013.html",
+        "kindergarten": {
+            "school": "深圳梅林幼儿园",
+            "distance": "644米"
+        },
+        "primary": {
+            "school": "深圳市福田区景田小学",
+            "distance": "714米"
+        },
+        "middle": {
+            "school": "华强高职专业学院",
+            "distance": "830米"
+        },
+        "university": {
+            "school": "深圳南开学校",
+            "distance": "1174米"
+        }
+    },
+    {
+        "des": "龙岗新上好房百合盛世4房2厅满五唯一看房方便",
+        "name": "百合盛世 ",
+        "area": "龙岗中心城",
+        "url": "https://sz.lianjia.com/ershoufang/105103298132.html",
+        "kindergarten": {
+            "school": "百合山水别苑幼儿园",
+            "distance": "166米"
+        },
+        "primary": {
+            "school": "深圳市龙岗区千林山小学",
+            "distance": "957米"
+        },
+        "middle": {
+            "school": "深圳携创高级技工学校(龙城校区)",
+            "distance": "801米"
+        },
+        "university": {
+            "school": "深圳技师学院",
+            "distance": "1060米"
+        }
+    },
+    {
+        "des": "豪方菁园 2室2厅 200万",
+        "name": "豪方菁园 ",
+        "area": "坪山",
+        "url": "https://sz.lianjia.com/ershoufang/105102580999.html",
+        "kindergarten": {
+            "school": "燕子岭幼儿园",
+            "distance": "199米"
+        },
+        "primary": {
+            "school": "燕子岭幼儿园",
+            "distance": "199米"
+        },
+        "middle": {
+            "school": "湖北省恩施民族职业技术学校驻深圳办事处",
+            "distance": "424米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "岸上林居 标准四房装修保养好 住家安静",
+        "name": "岸上林居 ",
+        "area": "龙岗中心城",
+        "url": "https://sz.lianjia.com/ershoufang/105103191420.html",
+        "kindergarten": {
+            "school": "快乐童年幼儿园(龙西东路)",
+            "distance": "836米"
+        },
+        "primary": {
+            "school": "龙西小学",
+            "distance": "1088米"
+        },
+        "middle": {
+            "school": "龙城高级中学兴泰实验学校",
+            "distance": "1146米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "70年产权的单身公寓，属于住宅，买它需要购房资质。",
+        "name": "财富广场 ",
+        "area": "香蜜湖",
+        "url": "https://sz.lianjia.com/ershoufang/105103210991.html",
+        "kindergarten": {
+            "school": "深圳东海培萃幼儿园",
+            "distance": "419米"
+        },
+        "primary": {
+            "school": "深圳外国语小学",
+            "distance": "213米"
+        },
+        "middle": {
+            "school": "深圳市高级中学(初中部)",
+            "distance": "947米"
+        },
+        "university": {
+            "school": "山东大学MBA",
+            "distance": "449米"
+        }
+    },
+    {
+        "des": "7号线，桃源村地铁口，塘朗山下中爱花园，精装两房！",
+        "name": "中爱花园 ",
+        "area": "西丽",
+        "url": "https://sz.lianjia.com/ershoufang/105102926078.html",
+        "kindergarten": {
+            "school": "莎利亚幼儿园",
+            "distance": "157米"
+        },
+        "primary": {
+            "school": "卓雅小学",
+            "distance": "440米"
+        },
+        "middle": {
+            "school": "深圳市南山区哈尔滨工业大学(深圳)实验学校",
+            "distance": "544米"
+        },
+        "university": {
+            "school": "深圳地铁大学",
+            "distance": "1412米"
+        }
+    },
+    {
+        "des": "港湾丽都 业主诚意出售 大新地铁口 交通便利 随时看",
+        "name": "港湾丽都 ",
+        "area": "前海",
+        "url": "https://sz.lianjia.com/ershoufang/105103123280.html",
+        "kindergarten": {
+            "school": "深圳南山区机关幼儿园",
+            "distance": "452米"
+        },
+        "primary": {
+            "school": "华府小学",
+            "distance": "403米"
+        },
+        "middle": {
+            "school": "南山区前海学校中学部",
+            "distance": "330米"
+        },
+        "university": {
+            "school": "西安电子科技大学(深圳教学点)",
+            "distance": "533米"
+        }
+    },
+    {
+        "des": "店长推荐、新装修，满五年，红本在手。",
+        "name": "万科城三期 ",
+        "area": "坂田",
+        "url": "https://sz.lianjia.com/ershoufang/105103302950.html",
+        "kindergarten": {
+            "school": "万科城幼儿园",
+            "distance": "627米"
+        },
+        "primary": {
+            "school": "万科城实验学校",
+            "distance": "511米"
+        },
+        "middle": {
+            "school": "深圳市龙岗区雪象学校",
+            "distance": "390米"
+        },
+        "university": {
+            "school": "无",
+            "distance": "无"
+        }
+    },
+    {
+        "des": "钥匙在手，天下我有，看房电话，随时在线",
+        "name": "大冲城市花园 ",
+        "area": "科技园",
+        "url": "https://sz.lianjia.com/ershoufang/105103300213.html",
+        "kindergarten": {
+            "school": "深圳市南山区爱德幼儿园",
+            "distance": "593米"
+        },
+        "primary": {
+            "school": "南山外国语学校(集团)科华学校小学部",
+            "distance": "359米"
+        },
+        "middle": {
+            "school": "南山外国语学校(文华学校)",
+            "distance": "660米"
+        },
+        "university": {
+            "school": "哈尔滨工业大学(科技南十路)",
+            "distance": "788米"
+        }
+    }
+]

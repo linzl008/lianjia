@@ -38,4 +38,9 @@ app.use(express.static(path.join(__dirname, 'public/webapp')));
 // Spider.startTask()
 // const WeatherImg = require('./spider/weatherImg');
 // WeatherImg.startTask()
+
+//开始模拟任务
+const Mock = require('./spider/browserMock');
+Mock.startMock()
+
 module.exports = app;
